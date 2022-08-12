@@ -17,5 +17,5 @@ int func(int a) {
       s = s + 1;
     }
   }
-  return s;
+  return s+1;
 }
