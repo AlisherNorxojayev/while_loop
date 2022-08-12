@@ -14,7 +14,7 @@ int func(int a) {
   while (i < a) {
     i++;
     if (i % 2 == 0) {
-      s = s + i;
+      s = s + 1;
     }
   }
   return s;

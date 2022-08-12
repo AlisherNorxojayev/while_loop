@@ -17,5 +17,5 @@ int func(int a) {
 }
 
 void main() {
-  print(func(13));
+  print(func(15));
 }
